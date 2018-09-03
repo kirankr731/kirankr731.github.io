@@ -1,0 +1,7 @@
+<factorypath>
+    <factorypathentry kind="PLUGIN" id="org.eclipse.jst.ws.annotations.core" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="EXTJAR" id="/home/kirankr/Downloads/requestfactory-apt.jar" enabled="false" runInBatchMode="false"/>
+    <factorypathentry kind="WKSPJAR" id="/Emp/war/WEB-INF/lib/requestfactory-apt.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="WKSPJAR" id="/Emp/war/WEB-INF/lib/bean-validator.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="WKSPJAR" id="/Emp/war/WEB-INF/lib/gwt-servlet.jar" enabled="true" runInBatchMode="false"/>
+</factorypath>

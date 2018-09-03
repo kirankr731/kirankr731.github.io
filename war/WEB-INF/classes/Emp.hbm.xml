@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN" "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<hibernate-mapping auto-import="false">
+<class name="com.chitrugupta.server.Employee" table="employeerep">
+<id name="id" column="EID" type="integer" >
+	<generator class="assigned"></generator>
+</id>
+<property name="name" column="name" type="string"></property>
+<property name="email" column="email" type="string"></property>
+<property name="salary" column="salary" type="integer"></property>
+</class>
+</hibernate-mapping>
+
+
+

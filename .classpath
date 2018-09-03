@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" output="test-classes" path="test"/>
+	<classpathentry kind="con" path="com.gwtplugins.gwt.eclipse.core.GWT_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/gwt-servlet.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/requestfactory-apt.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/requestfactory-server.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/validation-api-1.0.0.GA-sources.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/validation-api-1.0.0.GA.jar"/>
+	<classpathentry kind="lib" path="/home/kirankr/Downloads/hibernate-distribution-3.6.4.Final-dist.zip"/>
+	<classpathentry kind="src" path=".apt_generated">
+		<attributes>
+			<attribute name="optional" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/kirankr/Downloads/Hibernate/antlr-2.7.6.jar"/>
+	<classpathentry kind="lib" path="/home/kirankr/Downloads/Hibernate/commons-collections-3.1.jar"/>
+	<classpathentry kind="lib" path="/home/kirankr/Downloads/Hibernate/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="/home/kirankr/Downloads/Hibernate/hibernate3.jar"/>
+	<classpathentry kind="lib" path="/home/kirankr/Downloads/Hibernate/hibernate-jpa-2.0-api-1.0.0.Final.jar"/>
+	<classpathentry kind="lib" path="/home/kirankr/Downloads/Hibernate/hibernate-testing.jar"/>
+	<classpathentry kind="lib" path="/home/kirankr/Downloads/Hibernate/javassist-3.12.0.GA.jar"/>
+	<classpathentry kind="lib" path="/home/kirankr/Downloads/Hibernate/jta-1.1.jar"/>
+	<classpathentry kind="lib" path="/home/kirankr/Downloads/Hibernate/postgresql-42.2.5.jar"/>
+	<classpathentry kind="lib" path="/home/kirankr/Downloads/Hibernate/slf4j-api-1.6.1.jar"/>
+	<classpathentry kind="output" path="war/WEB-INF/classes"/>
+</classpath>
